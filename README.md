@@ -1,4 +1,4 @@
-** ExifBuddy
+**ExifBuddy**
 
 ExifBuddy is an images files renamer tool for Windows based on Exif DateTime metadata.
 Developed for my personal use and made available to people who may be interested.
